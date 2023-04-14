@@ -15,7 +15,7 @@ Before running the project, you need to have the following installed on your com
 
 1. Clone the repository using git clone https://github.com/Pramod858/Music-Generation-with-RNN.git.
 2. Install the required packages
-3. Run the Jupyter notebook using jupyter notebook` command in the terminal.
+3. Run the Jupyter notebook using `jupyter notebook` command in the terminal.
 
 ### Dataset
 
