@@ -34,5 +34,3 @@ The model generates music that is similar in style to the music in the training 
 
 ## Conclusion
 This project demonstrates the ability of Recurrent Neural Networks to generate music. The generated music can be used for various applications, such as music composition and video game soundtracks.
-
-Happy coding!
